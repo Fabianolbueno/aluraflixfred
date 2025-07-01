@@ -20,14 +20,16 @@ header {
     font-size: 32px;
     color: rgb(43, 79, 126)
 }
-section{
+
+section {
     background-color: rgb(33, 16, 48);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
 }
-div{
+
+div {
     margin-right: 5%;
     margin-left: 5%;
 }
